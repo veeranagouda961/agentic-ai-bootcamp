@@ -7,7 +7,7 @@ This project was created as part of the Agentic AI Bootcamp Day 3 Assignment.
 The application demonstrates a simple Python-based Agentic AI greeting program that interacts with the user and displays a welcome message.
 
 ## Project Structure
-
+```text
 agentic-ai-bootcamp/
 │
 ├── src/
@@ -16,7 +16,7 @@ agentic-ai-bootcamp/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 ## Requirements
 
 - Python 3.x
